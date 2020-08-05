@@ -24,7 +24,6 @@ REPORT_STEP          00:15:00
 WET_STEP             00:01:00
 DRY_STEP             01:00:00
 ROUTING_STEP         0:00:01 
-RULE_STEP            00:00:00
 ALLOW_PONDING        YES
 INERTIAL_DAMPING     PARTIAL
 VARIABLE_STEP        0.75
@@ -51,17 +50,17 @@ DRY_ONLY         NO
 [RAINGAGES]
 ;;Name           Format    Interval SCF      Source    
 ;;-------------- --------- ------ ------ ----------
-DON_3            INTENSITY 1:00     1.0      FILE       "model/rain.dat"   DON_3    MM   
-DON_1            INTENSITY 1:00     1.0      FILE       "model/rain.dat"   DON_1    MM   
-DON_2            INTENSITY 1:00     1.0      FILE       "model/rain.dat"   DON_2    MM   
-DON_4            INTENSITY 1:00     1.0      FILE       "model/rain.dat"   DON_4    MM   
-DON_5            INTENSITY 1:00     1.0      FILE       "model/rain.dat"   DON_5    MM   
-DON_6            INTENSITY 1:00     1.0      FILE       "model/rain.dat"   DON_6    MM      
-DON_7            INTENSITY 1:00     1.0      FILE       "model/rain.dat"   DON_7    MM    
-DON_8            INTENSITY 1:00     1.0      FILE       "model/rain.dat"   DON_8    MM      
-DON_9            INTENSITY 1:00     1.0      FILE       "model/rain.dat"   DON_9    MM     
-DON_10           INTENSITY 1:00     1.0      FILE       "model/rain.dat"   DON_10    MM         
-DON_11           INTENSITY 1:00     1.0      FILE       "model/rain.dat"   DON_11    MM       
+DON_3            INTENSITY 1:00     1.0      FILE       "rain.dat"   DON_3    MM   
+DON_1            INTENSITY 1:00     1.0      FILE       "rain.dat"   DON_1    MM   
+DON_2            INTENSITY 1:00     1.0      FILE       "rain.dat"   DON_2    MM   
+DON_4            INTENSITY 1:00     1.0      FILE       "rain.dat"   DON_4    MM   
+DON_5            INTENSITY 1:00     1.0      FILE       "rain.dat"   DON_5    MM   
+DON_6            INTENSITY 1:00     1.0      FILE       "rain.dat"   DON_6    MM      
+DON_7            INTENSITY 1:00     1.0      FILE       "rain.dat"   DON_7    MM    
+DON_8            INTENSITY 1:00     1.0      FILE       "rain.dat"   DON_8    MM      
+DON_9            INTENSITY 1:00     1.0      FILE       "rain.dat"   DON_9    MM     
+DON_10           INTENSITY 1:00     1.0      FILE       "rain.dat"   DON_10    MM         
+DON_11           INTENSITY 1:00     1.0      FILE       "rain.dat"   DON_11    MM       
 
 [SUBCATCHMENTS]
 ;;Name           Rain Gage        Outlet           Area     %Imperv  Width    %Slope   CurbLen  SnowPack        
