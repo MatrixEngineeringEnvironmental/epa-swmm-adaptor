@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diag xmlns="http://www.wldelft.nl/fews/PI"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.wldelft.nl/fews/PI http://fews.wldelft.nl/schemas/version1.0/pi-schemas/pi_diag.xsd" version="1.2">
+            <line level="3" description="INFO: External Adapter - Log written to root directory. When run from the command line, log will be written to the 'log' folder. (2020-08-05 14:24:26,553)"/>
+            <line level="3" description="INFO: External Adapter - No rating curve file provided in the run_info.xml; rating curves will not be updated. (2020-08-05 14:24:26,596)"/>
+            <line level="3" description="INFO: External Adapter - No control rule file (Control_rules.xml) provided in the run_info.xml; control rules will not be updated. (2020-08-05 14:24:26,596)"/>
+            <line level="3" description="INFO: External Adapter - 3 rating curves provided in C:\Users\pbishop\Documents\0_WORKING\30900_DelftFEWsPilot\epa-swmm-adaptor\tests\module_adapter\Don\input\Dam_rating_curve.xml: ['LocationX', 'LOC_Y', 'RC_Missing'] (2020-08-05 14:24:26,794)"/>
+            <line level="3" description="INFO: External Adapter - Converted the NetCDF rainfall file (C:\Users\pbishop\Documents\0_WORKING\30900_DelftFEWsPilot\epa-swmm-adaptor\tests\module_adapter\Don\input\rain.nc) to EPASWMM .DAT format (C:\Users\pbishop\Documents\0_WORKING\30900_DelftFEWsPilot\epa-swmm-adaptor\tests\module_adapter\Don\model\DonRiver_rainfall.dat). (2020-08-05 14:24:26,843)"/>
+            <line level="3" description="INFO: External Adapter - 3 rating curves provided in input\Dam_rating_curve.xml: ['LocationX', 'LOC_Y', 'RC_Missing'] (2020-08-05 14:24:26,853)"/>
+            <line level="3" description="INFO: External Adapter - Using the curve from the XML file for: LocationX (2020-08-05 14:24:26,857)"/>
+            <line level="3" description="INFO: External Adapter - Using the curve from the XML file for: LOC_Y (2020-08-05 14:24:26,858)"/>
+            <line level="2" description="WARNING: External Adapter - Curve(s) exported from FEWS, but does not have a match in the INP file. It is being ignored.{'RC_Missing'} (2020-08-05 14:24:26,862)"/>
+            <line level="3" description="INFO: External Adapter - 1 rating curves provided in C:\Users\pbishop\Documents\0_WORKING\30900_DelftFEWsPilot\epa-swmm-adaptor\tests\module_adapter\Don\input\Dam_rating_curve_1curve.xml: ['LocationX'] (2020-08-05 14:24:26,868)"/>
+            <line level="3" description="INFO: External Adapter - Using the curve from the XML file for: LocationX (2020-08-05 14:24:26,871)"/>
+            <line level="3" description="INFO: External Adapter - 2 rating curves provided in C:\Users\pbishop\Documents\0_WORKING\30900_DelftFEWsPilot\epa-swmm-adaptor\tests\module_adapter\Don\input\Dam_rating_curve_2curve.xml: ['LocationX', 'LOC_Y'] (2020-08-05 14:24:26,878)"/>
+            <line level="3" description="INFO: External Adapter - Using the curve from the XML file for: LocationX (2020-08-05 14:24:26,881)"/>
+            <line level="3" description="INFO: External Adapter - Using the curve from the XML file for: LOC_Y (2020-08-05 14:24:26,882)"/>
+            <line level="1" description="ERROR: External Adapter - Multiple curves with the same name found in C:\Users\pbishop\Documents\0_WORKING\30900_DelftFEWsPilot\epa-swmm-adaptor\tests\module_adapter\Don\input\Dam_rating_curve_curveDuplicate.xml (2020-08-05 14:24:26,888)"/>
+            <line level="1" description="ERROR: External Adapter - STOPPING ADAPTER : Error encountered while running the adapter. Reading Adapter Log, and writing the Diagnostics File and exiting. (2020-08-05 14:24:26,888)"/>
+            <line level="1" description="ERROR: External Adapter - No rating curves provided in C:\Users\pbishop\Documents\0_WORKING\30900_DelftFEWsPilot\epa-swmm-adaptor\tests\module_adapter\Don\input\Dam_rating_curve_0curves.xml. (2020-08-05 14:24:26,907)"/>
+            <line level="1" description="ERROR: External Adapter - STOPPING ADAPTER : Error encountered while running the adapter. Reading Adapter Log, and writing the Diagnostics File and exiting. (2020-08-05 14:24:26,907)"/>
+            <line level="3" description="INFO: External Adapter - EPASWMM Model: Analysis begun on:  Fri May  8 11:27:34 2020 (2020-08-05 14:24:27,196)"/>
+            <line level="3" description="INFO: External Adapter - EPASWMM Model: Analysis ended on:  Fri May  8 11:27:34 2020 (2020-08-05 14:24:27,207)"/>
+            <line level="3" description="INFO: External Adapter - EPASWMM Model: Total elapsed time: < 1 sec (2020-08-05 14:24:27,207)"/>
+            <line level="3" description="INFO: External Adapter - EPASWMM Model: Analysis begun on:  Fri May  8 11:27:34 2020 (2020-08-05 14:24:28,390)"/>
+            <line level="3" description="INFO: External Adapter - EPASWMM Model: Analysis ended on:  Fri May  8 11:27:34 2020 (2020-08-05 14:24:28,403)"/>
+            <line level="3" description="INFO: External Adapter - EPASWMM Model: Total elapsed time: < 1 sec (2020-08-05 14:24:28,403)"/>
+            <line level="1" description="ERROR: External Adapter - Error parsing UDUNITS input file: C:\Users\pbishop\Documents\0_WORKING\30900_DelftFEWsPilot\epa-swmm-adaptor\tests\module_adapter\Don\UDUNITS_lookup_BAD.csv (2020-08-05 14:24:29,303)"/>
+            <line level="1" description="ERROR: External Adapter - STOPPING ADAPTER : Error encountered while running the adapter. Reading Adapter Log, and writing the Diagnostics File and exiting. (2020-08-05 14:24:29,303)"/>
+            <line level="3" description="INFO: External Adapter - EPASWMM Model: Analysis begun on:  Fri Mar 27 12:43:19 2020 (2020-08-05 14:24:29,566)"/>
+            <line level="3" description="INFO: External Adapter - EPASWMM Model: Analysis ended on:  Fri Mar 27 12:43:19 2020 (2020-08-05 14:24:29,579)"/>
+            <line level="3" description="INFO: External Adapter - EPASWMM Model: Total elapsed time: < 1 sec (2020-08-05 14:24:29,579)"/>
+            <line level="3" description="INFO: External Adapter - EPASWMM Model: Analysis begun on:  Fri Mar 20 13:36:44 2020 (2020-08-05 14:24:30,756)"/>
+            <line level="3" description="INFO: External Adapter - EPASWMM Model: Analysis ended on:  Fri Mar 20 13:58:53 2020 (2020-08-05 14:24:30,774)"/>
+            <line level="3" description="INFO: External Adapter - EPASWMM Model: Total elapsed time: 00:22:09 (2020-08-05 14:24:30,774)"/>
+            <line level="1" description="ERROR: External Adapter - Error raised due to detected empty Time Series.  Check result file from EPA SWMM model output: C:\Users\pbishop\Documents\0_WORKING\30900_DelftFEWsPilot\epa-swmm-adaptor\tests\module_adapter\Don\model\FEWS_Test_model_output_exampleError.rpt (2020-08-05 14:24:30,795)"/>
+            <line level="1" description="ERROR: External Adapter - STOPPING ADAPTER : Error encountered while running the adapter. Reading Adapter Log, and writing the Diagnostics File and exiting. (2020-08-05 14:24:30,795)"/>
+            <line level="1" description="ERROR: External Adapter - Error raised due to detected empty Time Series.  Check result file from EPA SWMM model output: C:\Users\pbishop\Documents\0_WORKING\30900_DelftFEWsPilot\epa-swmm-adaptor\tests\module_adapter\Don\model\FEWS_Test_model_output_noTS.rpt (2020-08-05 14:24:30,885)"/>
+            <line level="1" description="ERROR: External Adapter - STOPPING ADAPTER : Error encountered while running the adapter. Reading Adapter Log, and writing the Diagnostics File and exiting. (2020-08-05 14:24:30,885)"/>
+            <line level="1" description="ERROR: External Adapter - Error raised due to detected empty Time Series.  Check result file from EPA SWMM model output: C:\Users\pbishop\Documents\0_WORKING\30900_DelftFEWsPilot\epa-swmm-adaptor\tests\module_adapter\Don\model\FEWS_Test_model_output_noTS2.rpt (2020-08-05 14:24:30,966)"/>
+            <line level="1" description="ERROR: External Adapter - STOPPING ADAPTER : Error encountered while running the adapter. Reading Adapter Log, and writing the Diagnostics File and exiting. (2020-08-05 14:24:30,966)"/>
+</Diag>

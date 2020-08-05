@@ -10,7 +10,6 @@ tests/module_adapter/Don/model/DonRiver.rpt
 tests/module_adapter/Don/model/model_adapter.log
 tests/module_adapter_deploy/bin/model_adapter.log
 tests/module_adapter_deploy/DonFull/Run_model.bat
-tests/
 docs/
 model_adapter.log
 .coverage

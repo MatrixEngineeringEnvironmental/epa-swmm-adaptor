@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TimeSeries xmlns="http://www.wldelft.nl/fews/PI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.wldelft.nl/fews/PI http://fews.wldelft.nl/schemas/version1.0/pi-schemas/pi_timeseries.xsd" version="1.5">
+    <timeZone>-5.0</timeZone>
+    <series>
+        <header>
+            <type>accumulative</type>
+            <locationId>OL341</locationId>
+            <parameterId>OUTLET</parameterId>
+            <timeStep unit="second" multiplier="86400"/>
+            <startDate date="2020/04/22" time="19:00:00"/>
+            <endDate date="2020/04/29" time="19:00:00"/>
+            <missVal>NaN</missVal>
+            <stationName>G Ross Dam</stationName>
+            <units>m3/s</units>
+        </header>
+        <event date="2020-03-18" time="22:00:00" value="0.1" flag="1"/>
+        <event date="2020-03-18" time="23:00:00" value="0.2" flag="1"/>
+        <event date="2020-03-19" time="05:00:00" value="0.3" flag="1"/>
+        <event date="2020-03-19" time="08:00:00" value="0.8" flag="1"/>
+    </series>
+    <series>
+        <header>
+            <type>accumulative</type>
+            <locationId>OL342</locationId>
+            <parameterId>OUTLET</parameterId>
+            <timeStep unit="second" multiplier="86400"/>
+            <startDate date="2020/04/22" time="19:00:00"/>
+            <endDate date="2020/04/29" time="19:00:00"/>
+            <missVal>NaN</missVal>
+            <stationName>G Ross Dam</stationName>
+            <units>m3/s</units>
+        </header>
+        <event date="2020-03-18" time="22:00:00" value="0.2" flag="1"/>
+        <event date="2020-03-18" time="23:00:00" value="0.4" flag="1"/>
+        <event date="2020-03-19" time="05:00:00" value="0.6" flag="1"/>
+        <event date="2020-03-19" time="08:00:00" value="0.9" flag="1"/>
+    </series>
+</TimeSeries>

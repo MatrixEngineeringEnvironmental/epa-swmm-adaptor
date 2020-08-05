@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diag xmlns="http://www.wldelft.nl/fews/PI"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.wldelft.nl/fews/PI http://fews.wldelft.nl/schemas/version1.0/pi-schemas/pi_diag.xsd" version="1.2">
+            <line level="3" description="INFO: External Adapter - ##### Running Pre-Adapter EPA-SWMM Delft-FEWS for C:\Users\pbishop\Documents\0_WORKING\30900_DelftFEWsPilot\epa-swmm-adaptor\tests\module_adapter\Don\run_info.xml ... (2020-05-08 16:00:43,236)"/>
+            <line level="3" description="INFO: External Adapter - 3 rating curves provided in input\Dam_rating_curve.xml: ['LocationX', 'LOC_Y', 'RC_Missing'] (2020-05-08 16:00:43,240)"/>
+            <line level="3" description="INFO: External Adapter - Using the curve from the XML file for: LocationX (2020-05-08 16:00:43,244)"/>
+            <line level="3" description="INFO: External Adapter - Using the curve from the XML file for: LOC_Y (2020-05-08 16:00:43,245)"/>
+            <line level="1" description="ERROR: External Adapter - No control rules in INP file, control rules were provided by FEWS. If controlrules are required, add a default control rule to the INP file. (2020-05-08 16:00:43,246)"/>
+            <line level="1" description="ERROR: External Adapter - STOPPING ADAPTER : Error encountered while running the adapter. Reading Adapter Log, and writing the run_diagnostics.xml and exiting. (2020-05-08 16:00:43,246)"/>
+</Diag>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TimeSeries xmlns="http://www.wldelft.nl/fews/PI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.wldelft.nl/fews/PI http://fews.wldelft.nl/schemas/version1.0/pi-schemas/pi_timeseries.xsd" version="1.5">
+    <timeZone>-5.0</timeZone>
+    <series>
+        <header>
+            <type>accumulative</type>
+            <locationId>OL341</locationId>
+            <parameterId>OUTLET</parameterId>
+            <timeStep unit="second" multiplier="3600"/>
+            <startDate date="2020/04/23" time="15:00:00"/>
+            <endDate date="2020/04/29" time="15:00:00"/>
+            <missVal>NaN</missVal>
+            <stationName>G Ross Dam</stationName>
+            <units>m</units>
+        </header>
+        <event date="2020/04/23" time="15:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/23" time="16:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/23" time="17:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/23" time="18:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/23" time="19:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/23" time="20:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/23" time="21:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/23" time="22:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/23" time="23:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/24" time="00:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/24" time="01:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/24" time="02:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/24" time="03:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/24" time="04:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/24" time="05:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/24" time="06:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/24" time="07:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/24" time="08:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/24" time="09:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/24" time="10:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/24" time="11:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/24" time="12:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/24" time="13:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/24" time="14:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/24" time="15:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/24" time="16:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/24" time="17:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/24" time="18:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/24" time="19:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/24" time="20:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/24" time="21:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/24" time="22:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/24" time="23:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/25" time="00:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/25" time="01:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/25" time="02:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/25" time="03:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/25" time="04:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/25" time="05:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/25" time="06:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/25" time="07:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/25" time="08:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/25" time="09:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/25" time="10:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/25" time="11:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/25" time="12:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/25" time="13:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/25" time="14:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/25" time="15:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/25" time="16:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/25" time="17:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/25" time="18:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/25" time="19:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/25" time="20:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/25" time="21:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/25" time="22:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/25" time="23:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/26" time="00:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/26" time="01:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/26" time="02:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/26" time="03:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/26" time="04:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/26" time="05:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/26" time="06:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/26" time="07:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/26" time="08:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/26" time="09:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/26" time="10:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/26" time="11:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/26" time="12:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/26" time="13:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/26" time="14:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/26" time="15:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/26" time="16:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/26" time="17:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/26" time="18:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/26" time="19:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/26" time="20:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/26" time="21:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/26" time="22:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/26" time="23:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/27" time="00:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/27" time="01:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/27" time="02:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/27" time="03:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/27" time="04:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/27" time="05:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/27" time="06:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/27" time="07:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/27" time="08:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/27" time="09:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/27" time="10:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/27" time="11:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/27" time="12:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/27" time="13:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/27" time="14:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/27" time="15:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/27" time="16:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/27" time="17:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/27" time="18:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/27" time="19:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/27" time="20:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/27" time="21:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/27" time="22:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/27" time="23:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/28" time="00:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/28" time="01:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/28" time="02:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/28" time="03:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/28" time="04:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/28" time="05:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/28" time="06:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/28" time="07:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/28" time="08:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/28" time="09:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/28" time="10:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/28" time="11:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/28" time="12:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/28" time="13:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/28" time="14:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/28" time="15:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/28" time="16:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/28" time="17:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/28" time="18:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/28" time="19:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/28" time="20:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/28" time="21:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/28" time="22:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/28" time="23:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/29" time="00:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/29" time="01:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/29" time="02:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/29" time="03:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/29" time="04:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/29" time="05:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/29" time="06:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/29" time="07:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/29" time="08:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/29" time="09:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/29" time="10:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/29" time="11:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/29" time="12:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/29" time="13:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/29" time="14:00:00" value="NaN" flag="8"/>
+        <event date="2020/04/29" time="15:00:00" value="NaN" flag="8"/>
+    </series>
+</TimeSeries>

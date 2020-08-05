@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Run xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.wldelft.nl/fews/PI" xsi:schemaLocation="http://www.wldelft.nl/fews/PI http://fews.wldelft.nl/schemas/version1.0/pi-schemas/pi_run.xsd" version="1.5">
+    <timeZone>-5.0</timeZone>
+    <startDateTime date="2020-03-18" time="20:00:00"/>
+    <endDateTime date="2020-03-19" time="20:00:00"/>
+    <time0 date="2020-03-19" time="20:00:00"/>
+    <lastObservationDateTime date="2020-03-19" time="20:00:00"/>
+    <workDir>.</workDir>
+    <inputNetcdfFile>.\\input\\rain.nc</inputNetcdfFile>
+    <inputRatingCurveFile>.\\input\\Dam_rating_curve.xml</inputRatingCurveFile>
+    <inputTimeSeriesFile>.\\input\\Control_rules.xml</inputTimeSeriesFile>
+    <outputDiagnosticFile>.\\log\\run_diagnostics.xml</outputDiagnosticFile>
+	<properties>
+		<string key="model-executable" value=".\\bin\\swmm5.exe"/>
+		<string key="swmm_input_file" value=".\\model\\DonRiver.inp"/>
+	</properties>
+</Run>

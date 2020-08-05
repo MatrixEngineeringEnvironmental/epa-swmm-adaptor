@@ -1,0 +1,6 @@
+INFO: External Adapter - ##### Running Pre-Adapter EPA-SWMM Delft-FEWS for C:\Users\pbishop\Documents\0_WORKING\30900_DelftFEWsPilot\epa-swmm-adaptor\tests\module_adapter\Don\run_info.xml ... (2020-05-08 16:00:43,236)
+INFO: External Adapter - 3 rating curves provided in input\Dam_rating_curve.xml: ['LocationX', 'LOC_Y', 'RC_Missing'] (2020-05-08 16:00:43,240)
+INFO: External Adapter - Using the curve from the XML file for: LocationX (2020-05-08 16:00:43,244)
+INFO: External Adapter - Using the curve from the XML file for: LOC_Y (2020-05-08 16:00:43,245)
+ERROR: External Adapter - No control rules in INP file, control rules were provided by FEWS. If controlrules are required, add a default control rule to the INP file. (2020-05-08 16:00:43,246)
+ERROR: External Adapter - STOPPING ADAPTER : Error encountered while running the adapter. Reading Adapter Log, and writing the run_diagnostics.xml and exiting. (2020-05-08 16:00:43,246)

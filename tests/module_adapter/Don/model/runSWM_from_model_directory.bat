@@ -1,0 +1,1 @@
+swmm5.exe FEWS_Test_model_input.inp FEWS_Test_model_output.rpt > log.txt
