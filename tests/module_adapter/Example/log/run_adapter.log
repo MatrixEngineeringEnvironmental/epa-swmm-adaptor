@@ -1,4 +1,0 @@
-INFO: External Adapter - ##### Running EPA-SWMM model for C:\Users\pbishop\Documents\0_WORKING\EPASWMM_FEWS\epa-swmm-adaptor\tests\module_adapter\Example\run_info.xml ... (2020-08-05 16:15:42,260)
-INFO: External Adapter - No control rule file (Control_rules.xml) provided in the run_info.xml; control rules will not be updated. (2020-08-05 16:15:42,264)
-INFO: External Adapter - Model executable being used to run SWMM model: C:\Users\pbishop\Documents\0_WORKING\EPASWMM_FEWS\epa-swmm-adaptor\tests\module_adapter\bin\swmm5.exe (2020-08-05 16:15:42,265)
-INFO: External Adapter - Reading warnings and errors from: C:\Users\pbishop\Documents\0_WORKING\EPASWMM_FEWS\epa-swmm-adaptor\tests\module_adapter\Example\model\DonRiver.rpt (2020-08-05 16:15:42,889)

@@ -1,1 +1,0 @@
-While these test cases refer to the Don River, the data included are not representative of the Toronto Region Conservation Authority's Don River model. The files in this directory are for testing purposes only. 
