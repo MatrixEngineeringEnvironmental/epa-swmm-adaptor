@@ -1,0 +1,14 @@
+exclude: '^docs/conf.py'
+
+repos:
+- repo: git://github.com/pre-commit/pre-commit-hooks
+  rev: v2.2.3
+  hooks:
+  - id: check-merge-conflict
+  - id: check-xml
+  - id: check-yaml
+
+- repo: https://github.com/pre-commit/mirrors-isort
+  rev: v4.3.4
+  hooks:
+  - id: isort
