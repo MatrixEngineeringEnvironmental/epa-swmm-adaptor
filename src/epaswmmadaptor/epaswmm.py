@@ -870,7 +870,7 @@ def run_model():
 
     model_bin = run_info["properties"]["model-executable"]
     main_logger.info("Model executable being used to run SWMM model: {0}".format(str(model_bin)))
-    os.chdir(str(run_info["workDir"])+"//model")  # current directory must be the model folder in order for the SWM .inp's reference to the rain.dat to work.
+    os.chdir(str(run_info["workDir"]))  # current directory must be the model folder in order for the SWM .inp's reference to the rain.dat to work. WorkDir in Run Info refers to the "model" folder
     with open('Run_model.bat', "w") as bf:
         bf.write(str(model_bin) + " " + str(run_info["properties"]["swmm_input_file"]) + " " + str(
             run_info["properties"]["swmm_output_file"]))
